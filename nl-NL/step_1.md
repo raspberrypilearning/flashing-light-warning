@@ -1,3 +1,3 @@
-<span style="color: #ff3103">Warning:</span> **This project uses blinking lights.** A very small percentage of people may experience a seizure or migraine when exposed to certain visual images, including flashing lights. Even people who have never had seizures or migraines may have a condition they don't know about that can cause migraines or **photosensitive epileptic seizures**.
+<span style="color: #ff3103">Waarschuwing:</span> **dit project maakt gebruik van knipperende lichtjes.** Een zeer klein percentage mensen kan een (epileptische) aanval of migraine krijgen wanneer ze bepaalde visuele beelden, inclusief knipperende lichten te zien krijgen. Zelfs mensen die nog nooit een aanval of migraine hebben gehad, kunnen een aandoening hebben die ze niet kennen en die migraine of **lichtgevoelige epileptische aanvallen** kan veroorzaken.
 
-**If you experience any symptoms or feel unwell: immediately stop working and consult a doctor.**
+**Als je symptomen ervaart of je onwel voelt: Stop onmiddellijk met werken en raadpleeg een arts.**
