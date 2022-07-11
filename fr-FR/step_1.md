@@ -1,3 +1,3 @@
-<span style="color: #ff3103">Warning:</span> **This project uses blinking lights.** A very small percentage of people may experience a seizure or migraine when exposed to certain visual images, including flashing lights. Even people who have never had seizures or migraines may have a condition they don't know about that can cause migraines or **photosensitive epileptic seizures**.
+<span style="color: #ff3103">Avertissement :</span> **Ce projet utilise des lumières clignotantes.** Un très petit pourcentage de personnes peut avoir une crise d'épilepsie ou une migraine lorsqu'elles sont exposées à certaines images visuelles, y compris des lumières clignotantes. Même les personnes qui n'ont jamais eu de crises d'épilepsie ou de migraines peuvent avoir une maladie qu'elles ne connaissent pas et qui peut provoquer des migraines ou des **crises d'épilepsie photosensible**.
 
-**If you experience any symptoms or feel unwell: immediately stop working and consult a doctor.**
+**Si tu ressens des symptômes ou si tu ne te sens pas bien : arrête immédiatement de travailler et consulte un médecin.**
