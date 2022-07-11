@@ -1,0 +1,3 @@
+<span style="color: #ff3103">Avertissement :</span> **Ce projet utilise des lumières clignotantes.** Un très petit pourcentage de personnes peut avoir une crise d'épilepsie ou une migraine lorsqu'elles sont exposées à certaines images visuelles, y compris des lumières clignotantes. Même les personnes qui n'ont jamais eu de crises d'épilepsie ou de migraines peuvent avoir une maladie qu'elles ne connaissent pas et qui peut provoquer des migraines ou des **crises d'épilepsie photosensible**.
+
+**Si tu ressens des symptômes ou si tu ne te sens pas bien : arrête immédiatement de travailler et consulte un médecin.**
