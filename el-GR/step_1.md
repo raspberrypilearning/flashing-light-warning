@@ -1,3 +1,3 @@
-<span style="color: #ff3103">Warning:</span> **This project uses blinking lights.** A very small percentage of people may experience a seizure or migraine when exposed to certain visual images, including flashing lights. Even people who have never had seizures or migraines may have a condition they don't know about that can cause migraines or **photosensitive epileptic seizures**.
+<span style="color: #ff3103">Προειδοποίηση:</span> **Αυτό το έργο χρησιμοποιεί φώτα που αναβοσβήνουν.** Ένα πολύ μικρό ποσοστό ανθρώπων μπορεί να εμφανίσει επιληπτικές κρίσεις ή ημικρανία όταν εκτεθεί σε ορισμένες οπτικές εικόνες, συμπεριλαμβανομένων των φώτων που αναβοσβήνουν. Ακόμη και άτομα που δεν είχαν ποτέ επιληπτικές κρίσεις ή ημικρανίες μπορεί να έχουν μια πάθηση που δεν γνωρίζουν και η οποία μπορεί να προκαλέσει ημικρανίες ή **φωτοεπιληπτικές κρίσεις**.
 
-**If you experience any symptoms or feel unwell: immediately stop working and consult a doctor.**
+**Εάν εμφανίσεις συμπτώματα ή αισθανθείς αδιαθεσία: σταμάτησε αμέσως να εργάζεσαι και συμβουλέψου έναν γιατρό.**
