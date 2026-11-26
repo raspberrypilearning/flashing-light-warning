@@ -1,3 +1,3 @@
-<span style="color: #ff3103">Varning:</span> **Det här projektet använder blinkande lampor.** En mycket liten andel av människor kan få epilepsi eller migrän när de utsätts för vissa visuella bilder, inklusive blinkande ljus. Även personer som aldrig har haft epilepsi eller migrän kan ha ett bakomliggande tillstånd de inte känner till som kan orsaka migrän eller **ljuskänsliga epileptiska anfall**.
+<span style="color: #ff3103">Warning:</span> **This project uses blinking lights.** A very small percentage of people may experience a seizure or migraine when exposed to certain visual images, including flashing lights. Even people who have never had seizures or migraines may have a condition they don't know about that can cause migraines or **photosensitive epileptic seizures**.
 
-**Om du upplever några symtom eller känner dig illamående: sluta omedelbart arbeta och kontakta läkare.**
+**If you experience any symptoms or feel unwell: immediately stop working and consult a doctor.**
